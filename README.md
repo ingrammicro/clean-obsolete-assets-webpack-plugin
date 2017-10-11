@@ -1,0 +1,1 @@
+# clean-obsolete-assets-webpack-plugin
