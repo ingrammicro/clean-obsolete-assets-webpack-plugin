@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ingrammicro/clean-obsolete-assets-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/ingrammicro/clean-obsolete-assets-webpack-plugin#readme"
+  "homepage": "https://github.com/ingrammicro/clean-obsolete-assets-webpack-plugin#readme",
+  "dependencies": {
+    "del": "^3.0.0"
+  }
 }
