@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ingrammicro/clean-obsolete-assets-webpack-plugin#readme",
   "dependencies": {
+    "aws-sdk": "^2.288.0",
     "del": "^3.0.0"
   }
 }
