@@ -1,6 +1,6 @@
 {
   "name": "clean-obsolete-assets-webpack-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Webpack plugin for cleaning obsolete assets files from previous bundle.",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/ingrammicro/clean-obsolete-assets-webpack-plugin#readme",
   "dependencies": {
+    "aws-sdk": "^2.288.0",
     "del": "^3.0.0"
   }
 }
